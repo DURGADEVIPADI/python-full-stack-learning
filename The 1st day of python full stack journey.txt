@@ -1,0 +1,18 @@
+🏹 120 days python full stack challenge.....
+# The first day of my python class....
+➡️ Variables and its rules...
+🎁 A variable is a name that refers to a value stored in the computer 's 
+ memory. You can use that name to access ,change , or use the value 
+ later.
+✴️ variable name should start with a letter or underscore( _ ).
+ ✅ name,_value
+ ❌ 1st_name(starts with number)
+✴️ we can not use python keywords( for,class,if,else,etc.) as variable names.
+✴️ don't use numbers at the start of variable names.
+✴️ the only allowed special charcter is underscore.
+✴️ variable names can only have alphanumeric charcters (A-Z ,a-z , 0-9 ) and 
+ underscore.
+ ✅ user1,total_value
+ ❌ user-name(hyphen not allowed)
+ ✴️ variable names are case sensitive (e.g. Name , NAME and name are all 
+ different) .
