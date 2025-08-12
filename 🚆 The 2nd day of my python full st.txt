@@ -1,0 +1,19 @@
+🚆 The 2nd day of my python full stack learning journey....
+🏹 Datatypes
+#️⃣ In python , datatypes tell the interpreter what kind of value a variable 
+ holds.
+▶️ Basic (Built-in) Data types
+
+   Datatype    Example            Description 
+
+🟧 int       5, -10 , 456       Whole numbers(no decimal)
+
+🟧 float     3.14 , 5.26        Numbers with decimal point
+
+🟧 complex   3+4j , 6+8i        Complex numbers(real+imaginary)
+
+🟧 str      "Hello","python"    Text (sequence of characters)
+
+🟧 bool      True , False       Boolean values
+
+🟧 Nonetype  None Represents    no value/null
