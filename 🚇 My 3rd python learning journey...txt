@@ -1,0 +1,5 @@
+🚇 My 3rd python learning journey....
+▶️ Operators:
+✴️ In python, operators are special symbols or keywords that tell the interpreter to perform specific operations on values (operands).
+🏹 Arithmetic operators (+, - ,* , /, //, % ,**)used for mathematical calculations.
+🏹 Assignment operators(=,+=,-=,*=,/=,//=,%=,**=) used to assign values to variables.
